@@ -148,6 +148,7 @@
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Math.cpp" />
     <ClCompile Include="src\MoveComponent.cpp" />
+    <ClCompile Include="src\NavComponent.cpp" />
     <ClCompile Include="src\Random.cpp" />
     <ClCompile Include="src\SpriteComponent.cpp" />
     <ClCompile Include="src\TileMapComponent.cpp" />
@@ -165,6 +166,7 @@
     <ClInclude Include="src\InputComponent.h" />
     <ClInclude Include="src\Math.h" />
     <ClInclude Include="src\MoveComponent.h" />
+    <ClInclude Include="src\NavComponent.h" />
     <ClInclude Include="src\Random.h" />
     <ClInclude Include="src\SpriteComponent.h" />
     <ClInclude Include="src\TileMapComponent.h" />
